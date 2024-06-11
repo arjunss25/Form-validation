@@ -1,0 +1,16 @@
+input{
+    width: 50%;
+    border-radius: 2vw;
+    border: 1px black;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+h1,h2,h3,h4{
+    color: red;
+    font-size: 0.5rem !important;
+}
+
+.main{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 3vw;
+    overflow: hidden;
+}
